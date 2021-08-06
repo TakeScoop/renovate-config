@@ -1,1 +1,1 @@
-{"extends":["config:base","github\u003eTakeScoop/renovate-config","github\u003eTakeScoop/renovate-config"]}
+{"extends":["config:base","github\u003eTakeScoop/renovate-config:artifactory","github\u003eTakeScoop/renovate-config:npm"]}
