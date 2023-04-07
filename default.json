@@ -1,1 +1,1 @@
-{"extends":["config:base","github\u003eTakeScoop/renovate-config:artifactory","github\u003eTakeScoop/renovate-config:npm","github\u003eTakeScoop/renovate-config:terraform"],"prConcurrentLimit":3}
+{"extends":["config:base","github\u003eTakeScoop/renovate-config:artifactory","github\u003eTakeScoop/renovate-config:npm","github\u003eTakeScoop/renovate-config:terraform","github\u003eTakeScoop/renovate-config:helm"],"prConcurrentLimit":3}
